@@ -76,7 +76,7 @@ def get_issues(
         
     except Exception as e:
         logger.error(f"Erro ao buscar issues: {str(e)}")
-        return {"error": f"Erro interno: {str(e)}"}
+        return []
 
 @app.get("/api/projects")
 def get_projects(
@@ -103,7 +103,7 @@ def get_projects(
         
     except Exception as e:
         logger.error(f"Erro ao buscar projects: {str(e)}")
-        return {"error": f"Erro interno: {str(e)}"}
+        return []
 
 @app.get("/health")
 def health_check():
