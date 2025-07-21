@@ -1,9 +1,9 @@
 id,updatedAt,deletedAt,text,priority,status
-1,2024-01-15T10:30:00,,Bug no login,high,open
+1,2024-07-20T16:45:00,2024-07-20T16:45:00,Bug no login,high,open
 2,2024-01-16T14:20:00,,Melhorar performance,medium,in_progress
 3,2024-01-17T09:15:00,,Adicionar validação,low,open
 4,2025-07-18T03:06:45,,Novo issue 20 - Teste,low,open
-5,2024-01-19T13:10:00,,Corrigir layout,medium,open
+5,2024-07-21T16:45:00,2024-07-21T16:45:00,Corrigir layout,medium,open
 6,2024-01-20T08:30:00,,Implementar cache,high,in_progress
 7,2024-01-21T15:20:00,,Atualizar documentação,low,open
 8,2024-01-22T11:45:00,,Otimizar queries,medium,in_progress
