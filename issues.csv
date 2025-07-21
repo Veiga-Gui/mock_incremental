@@ -1,7 +1,7 @@
 id,updatedAt,deletedAt,text,priority,status
 1,2024-07-20T16:45:00,2024-07-20T16:45:00,Bug no login,high,open
 2,2024-01-16T14:20:00,,Melhorar performance,medium,in_progress
-3,2024-01-17T09:15:00,,Adicionar validação,low,open
+3,2024-01-17T09:15:00,,Adicionar UMA validação,low,open
 4,2025-07-18T03:06:45,,Novo issue 20 - Teste,low,open
 5,2024-07-21T16:45:00,2024-07-21T16:45:00,Corrigir layout,medium,open
 6,2024-01-20T08:30:00,,Implementar cache,high,in_progress
@@ -10,7 +10,7 @@ id,updatedAt,deletedAt,text,priority,status
 9,2024-01-23T14:30:00,,Adicionar testes,high,open
 10,2024-01-24T10:15:00,,Refatoraraçao de código,medium,open
 11,2024-01-25T16:00:00,,Corrigir bug crítico,high,in_progress
-12,2024-01-26T12:30:00,,Melhorar UX,low,open
+12,2025-05-19T16:45:00,2025-05-19T16:45:00,Melhorar UX,low,open
 13,2024-01-14T16:45:00,2024-01-14T16:45:00,Implementar backup,medium,open
 14,2024-01-28T15:10:00,,Atualizar dependências,low,in_progress
 15,2024-01-29T11:20:00,,Corrigir responsividade,medium,open 

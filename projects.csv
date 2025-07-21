@@ -4,13 +4,13 @@ id,updatedAt,deletedAt,name,description,status,owner
 3,2024-01-14T14:15:00,,Portal Web,Portal corporativo,active,Pedro Costa
 4,2024-01-16T09:45:00,2024-01-25T16:20:00,Projeto Cancelado,Projeto descontinuado,inactive,Ana Oliveira
 5,2024-01-18T11:20:00,,API Gateway,Centralização de APIs,active,Carlos Lima
-6,2024-01-20T13:40:00,,Dashboard BI,Relatórios e métricas,active,Julia Ferreira
+6,2024-01-20T13:40:00,,Dashboards BI,Relatórios e métricas,active,Julia Ferreira
 7,2024-01-22T15:30:00,,Sistema de Pagamentos,Processamento de pagamentos,active,Ricardo Alves
 8,2024-01-14T16:45:00,2024-01-14T16:45:00,CRM,Gestão de clientes,active,Fernanda Rocha
 9,2024-01-26T16:50:00,,E-commerce,Loja virtual,active,Lucas Mendes
 10,2024-07-20T16:45:00,2024-07-20T16:45:00,Sistema de Estoque,Controle de inventário,active,Patrícia Souza
 11,2024-01-30T14:05:00,,App de Delivery,Entrega de produtos,active,Rafael Torres
-12,2024-02-01T11:15:00,,Sistema Financeiro,Gestão financeira,active,Beatriz Lima
+12,2025-06-20T16:45:00,2025-06-20T16:45:00,Sistema Financeiro,Gestão financeira,active,Beatriz Lima
 13,2024-02-03T13:30:00,,Portal do Cliente,Área do cliente,active,Thiago Silva
 14,2024-02-05T15:45:00,,Sistema de RH,Gestão de recursos humanos,active,Carolina Santos
 15,2024-02-07T09:20:00,,App de Gestão,App para gestores,active,Diego Costa 
