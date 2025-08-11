@@ -12,8 +12,8 @@ id,updatedAt,deletedAt,text,priority,status
 11,2024-01-25T16:00:00,,Corrigir bug crítico,high,in_progress
 12,2025-05-19T16:45:00,2025-05-19T16:45:00,Melhorar UX,low,open
 13,2024-01-14T16:45:00,2024-01-14T16:45:00,Implementar backup,medium,open
-14,2024-01-28T15:10:00,,Atualizar dependências,low,in_progress
-15,2024-01-29T11:20:00,,Corrigir responsividade,medium,open 
+14,2024-01-28T15:10:00,,Atualizar TODAS AS dependências,low,in_progress
+15,2025-07-29T11:20:00,,Corrigir BUGS,medium,open 
 16,2025-07-18T00:06:45,,Novo issue 16 - Bug crítico,low,closed
 17,2025-07-17T13:06:45,,Novo issue 17 - Melhoria,medium,closed
 18,2025-07-18T06:06:45,,Novo issue 18 - Feature,medium,open

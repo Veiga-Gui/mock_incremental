@@ -11,8 +11,8 @@ id,updatedAt,deletedAt,name,description,status,owner
 10,2024-07-20T16:45:00,2024-07-20T16:45:00,Sistema de Estoque,Controle de inventário,active,Patrícia Souza
 11,2024-01-30T14:05:00,,App de Delivery,Entrega de produtos,active,Rafael Torres
 12,2025-06-20T16:45:00,2025-06-20T16:45:00,Sistema Financeiro,Gestão financeira,active,Beatriz Lima
-13,2024-02-03T13:30:00,,Portal do Cliente,Área do cliente,active,Thiago Silva
-14,2024-02-05T15:45:00,,Sistema de RH,Gestão de recursos humanos,active,Carolina Santos
+13,2024-02-03T13:30:00,,Portal do COORDENADOR,Área do cliente,active,Thiago Silva
+14,2025-07-05T15:45:00,,Sistema de GESTÃO,Gestão de recursos humanos,active,Carolina Santos
 15,2024-02-07T09:20:00,,App de Gestão,App para gestores,active,Diego Costa 
 16,2025-07-18T06:06:45,,Sistema de Analytics,Dashboard avançado de analytics,active,Ana Silva
 17,2025-07-17T20:06:45,,App de Gestão Financeira,Aplicativo para controle financeiro,active,Carlos Santos
