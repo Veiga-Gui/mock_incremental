@@ -7,8 +7,8 @@ id,updatedAt,deletedAt,text,priority,status
 6,2024-01-20T08:30:00,,Implementar cache,high,in_progress
 7,2024-01-21T15:20:00,,Atualizar documentação,low,open
 8,2024-01-22T11:45:00,,Otimizar queries,medium,in_progress
-9,2024-01-23T14:30:00,,Adicionar testes,high,open
-10,2024-01-24T10:15:00,,Refatoraraçao de código,medium,open
+9,2025-06-23T14:30:00,,ADICIONAR TESTES,high,open
+10,2024-01-24T10:15:00,,REFATORAÇÃO de código,medium,open
 11,2024-01-25T16:00:00,,Corrigir bug crítico,high,in_progress
 12,2025-05-19T16:45:00,2025-05-19T16:45:00,Melhorar UX,low,open
 13,2024-01-14T16:45:00,2024-01-14T16:45:00,Implementar backup,medium,open
